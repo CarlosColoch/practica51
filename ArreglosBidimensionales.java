@@ -1,4 +1,4 @@
-package com.ebac.modulo37;
+package com.ebac.modulo51;
 
 public class ArreglosBidimensionales {
     public static void main(String[] args) {
